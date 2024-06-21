@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 16:56:50.000.041,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 16:57:16.000.076,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Temp\PagSeguro\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 16:57:16.000.076,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Temp\PagSeguro\Unit1.fmx</Transaction>
+    <Transaction>2022/03/25 16:57:17.000.345,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Temp\PagSeguro\Project1.dproj</Transaction>
+    <Transaction>2022/03/25 16:58:03.000.888,=C:\Temp\PagSeguro\Unit2.pas</Transaction>
+    <Transaction>2022/03/25 16:58:16.000.954,C:\Temp\PagSeguro\Unit2.pas=C:\Temp\PagSeguro\Units\PagSeguro.pas</Transaction>
+    <Transaction>2022/03/27 19:25:25.160,D:\99Coders\PagSeguro\Mobile\Units\PagSeguro.pas=</Transaction>
+    <Transaction>2022/03/27 19:28:24.365,=D:\99Coders\PagSeguro\Mobile\Units\PagSeguro.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

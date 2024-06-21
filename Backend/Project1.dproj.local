@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 12:46:13.000.100,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 12:46:40.000.059,C:\Temp\PagSeguroBackend\Unit1.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 12:46:40.000.059,C:\Temp\PagSeguroBackend\Unit1.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/03/26 12:46:41.000.515,C:\Temp\PagSeguroBackend\Project1.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
